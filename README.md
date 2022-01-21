@@ -1,6 +1,6 @@
 Cheyenne D. Bowman
 👋 Hi, I'm Cheyenne. I'm a software engineer who used to working in healthcare and then manufacturing.
-I am ready to learn more and design amazing applications.
+I am ready to learn more and design amazing applications. I look foward to working with you.
 
 
 About Me
@@ -18,3 +18,5 @@ Redux
 html
 css
 axios
+
+
