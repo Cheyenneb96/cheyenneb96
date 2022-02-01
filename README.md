@@ -18,5 +18,6 @@ Redux
 html
 css
 axios
+javascript
 
 
